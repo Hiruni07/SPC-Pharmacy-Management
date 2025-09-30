@@ -1,0 +1,69 @@
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\ApplicationInsights.config
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\csc.exe
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\vbc.exe
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\SPCWebsite.dll.config
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\SPCWebsite.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\SPCWebsite.pdb
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\MySql.Data.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\bin\MySql.Data.xml
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\obj\Debug\SPCWebsite.dll
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\obj\Debug\SPCWebsite.pdb
+C:\Users\Hiruni\Documents\Visual Studio 2015\Projects\SPCWebsite\SPCWebsite\obj\Debug\SPCWebsite.csprojResolveAssemblyReference.cache
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\ApplicationInsights.config
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\csc.exe
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\vbc.exe
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\VBCSCompiler.exe
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\SPCWebsite.dll.config
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\SPCWebsite.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\SPCWebsite.pdb
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.DependencyCollector.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.Web.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.WindowsServer.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.ApplicationInsights.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.DependencyCollector.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.Web.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.AI.WindowsServer.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.ApplicationInsights.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\bin\MySql.Data.xml
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\obj\Debug\SPCWebsite.csprojResolveAssemblyReference.cache
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\obj\Debug\SPCWebsite.dll
+D:\Desktop\SPCPharmacyManagement\SPCWebsite\obj\Debug\SPCWebsite.pdb

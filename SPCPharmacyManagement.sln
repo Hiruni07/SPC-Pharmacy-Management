@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCPharmacyManagement", "SPCPharmacyManagement\SPCPharmacyManagement.csproj", "{CF1804FA-099F-40E0-800B-2DD61AAAF01A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPCWebsite", "SPCWebsite\SPCWebsite.csproj", "{2A5F8831-5812-43F1-BE21-19B0A68431F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1804FA-099F-40E0-800B-2DD61AAAF01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1804FA-099F-40E0-800B-2DD61AAAF01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1804FA-099F-40E0-800B-2DD61AAAF01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1804FA-099F-40E0-800B-2DD61AAAF01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A5F8831-5812-43F1-BE21-19B0A68431F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5F8831-5812-43F1-BE21-19B0A68431F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5F8831-5812-43F1-BE21-19B0A68431F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5F8831-5812-43F1-BE21-19B0A68431F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
